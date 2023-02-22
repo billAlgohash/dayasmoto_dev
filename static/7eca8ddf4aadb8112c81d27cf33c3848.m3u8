@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:6
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="https://p.tangping.ink/watch9/7eca8ddf4aadb8112c81d27cf33c3848/crypt.key?auth_key=1669775835-0-0-a759b3a3f57cd835cdc0d3761f1d4991",IV=0x26d5661a2f66697352d7b43b5506002a
+#EXTINF:6.000000,
+https://p.tangping.ink/watch9/7eca8ddf4aadb8112c81d27cf33c3848/7eca8ddf4aadb8112c81d27cf33c38480.ts?auth_key=1669775835-0-0-8d990ef4f8deab621f4a22512268be00
+#EXTINF:4.000000,
+https://p.tangping.ink/watch9/7eca8ddf4aadb8112c81d27cf33c3848/7eca8ddf4aadb8112c81d27cf33c38481.ts?auth_key=1669775835-0-0-44782920bab970ed89186dfef73bd136
+#EXTINF:6.000000,
+https://p.tangping.ink/watch9/7eca8ddf4aadb8112c81d27cf33c3848/7eca8ddf4aadb8112c81d27cf33c38482.ts?auth_key=1669775835-0-0-ef1dc6956cb674b0bb7708a7782c782d
+#EXTINF:4.000000,
+https://p.tangping.ink/watch9/7eca8ddf4aadb8112c81d27cf33c3848/7eca8ddf4aadb8112c81d27cf33c38483.ts?auth_key=1669775835-0-0-e533d766ce321b741104846622f5f7a6
+#EXTINF:1.533333,
+https://p.tangping.ink/watch9/7eca8ddf4aadb8112c81d27cf33c3848/7eca8ddf4aadb8112c81d27cf33c38484.ts?auth_key=1669775835-0-0-3960b5221f166e753767de9a9d24c02f
+#EXT-X-ENDLIST

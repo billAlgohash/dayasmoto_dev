@@ -1,0 +1,101 @@
+{
+    "members":[
+        {   "id":1,
+            "name":"Afiq Mustafa",
+            "image":"/static/afiq.png",
+            "title":"Sales",
+            "mobile":"+971 568191484",
+            "whatsApp":"+971 568191484"
+        
+        },
+        {   
+            "id":2,
+            "name":"Hameed Rahmathullah",
+            "image":"/static/hameedRahmathullah.png",
+            "title":"Sales",
+            "mobile":"+91 8838800109",
+            "whatsApp":"+91 8838800109"
+        
+        },
+        {   
+            "id":3,
+            "name":"Muhammad Yaseen",
+            "image":"/static/MuhammadYaseen.png",
+            "title":"Sales",
+            "mobile":"+91 9500888407",
+            "whatsApp":"+91 9500888407"
+        
+        },
+        {   
+            "id":4,
+            "name":"David Kwan",
+            "image":"/static/david.jpg",
+            "title":"CEO - HK & China",
+            "mobile":"+852-62244422",
+            "whatsApp":"+852-62244422"
+        
+        },
+        {   
+            "id":5,
+            "name":"Felix Lam",
+            "title":"CTO",
+            "mobile":"+852-95128140",
+            "whatsApp":"+852-95128140"
+        
+        },
+        {   
+            "id":6,
+            "name":"Bill Lam",
+            "image":"/static/Piu.jpg",
+            "title":"Operation Manager - HK Division",
+            "mobile":"+852-51101671",
+            "whatsApp":"+852-51101671"
+        
+        },
+        {   
+            "id":7,
+            "name":"Ivan Li",
+            "image":"/static/Ivan.jpg",
+            "title":"Marketing Manager",
+            "mobile":"+971550198650",
+            "whatsApp":"+971550198650"
+        
+        },
+        {   
+            "id":8,
+            "name":"Ahamed Yaseen Musarrif",
+            "image":"/static/yaseenMusarrif.png",
+            "title":"CEO",
+            "mobile":"+971586869522",
+            "whatsApp":"+971586869522"
+        
+        },
+        {   
+            "id":9,
+            "name":"Mohamed Risnan Ahsan",
+            "title":"COO",
+            "mobile":"+971544323473",
+            "whatsApp":"+971544323473"
+        
+        },
+        {   
+            "id":10,
+            "name":"Jun Wong",
+     
+            "title":"CFO - HK",
+            "mobile":"+852-62244427",
+            "whatsApp":"+852-62244427"
+        
+        },
+        {   
+            "id":11,
+            "name":"Gigi Chan",
+     
+            "title":"Purchase Lead",
+            "mobile":"+852-62244427",
+            "whatsApp":"+852-62244427"
+        
+        }
+
+    ]
+}
